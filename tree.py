@@ -1,10 +1,12 @@
 '''
-Author: Gene Jiang
-Date: 2018-02-01 18:11:10
-LastEditors: Gene Jiang
-LastEditTime: 2021-02-01 19:27:38
-Description: 
+Author: gene.jiang
+Date: 2024-10-21 20:00:48
+LastEditors: gene.jiang
+LastEditTime: 2024-10-21 20:02:24
+Description: file content
+FilePath: \DS_ALG\tree.py
 '''
+
 from typing import *
 
 class TreeNode:
